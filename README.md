@@ -46,7 +46,6 @@ Prerequisites
 •	pip
 Installation
 
-git clone https://github.com/Tijani191/fraud-detection.git
 cd fraud-detection
 pip install -r requirements.txt
 
